@@ -15,7 +15,7 @@ import Alamofire
 class WeatherViewController: UIViewController, CLLocationManagerDelegate{
     
     //Constants
-    let WEATHER_URL = "https://google.com"
+    let WEATHER_URL = "http://api.openweathermap.org/data/2.5/weather"
     let APP_ID = "89246fba59c129553e3aec94e5eb68cc"
     
 
